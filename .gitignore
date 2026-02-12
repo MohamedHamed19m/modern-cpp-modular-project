@@ -1,0 +1,59 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+*.user
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Static libraries
+*.a
+*.lib
+*.la
+*.lo
+
+# Log files
+*.log
+
+# Package managers
+vcpkg/
+.vcpkg-root
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
